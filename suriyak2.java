@@ -47,7 +47,5 @@ class Rank {
             System.out.printf("%d\t%d\t%.2f\n",
                     (i + 1), regno[i], avg[i]);
         }
-
-        sc.close();
     }
 }
